@@ -1,0 +1,6 @@
+name: python 3.6
+dependencies:
+  - python=3.6
+  - scipy
+  - matplotlib
+  - tqdm
