@@ -5,6 +5,7 @@
 Codes to reproduce results in published paper. Mostly related to charge transport in organic semiconductors and matrix product states. You can run the codes online via the binder button above.
 
 ## Included papers:
+- [Gould90](https://aip.scitation.org/doi/pdf/10.1063/1.4822960). Diffusion Quantum Monte Carlo. P. J. Reynolds, J. Tobochnik, and H. Gould. *Comput. Phys.* **1990**, *4*, 662.
 - [Bonca99](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.60.1633). Holstein Polaron. J. Bonča, S. A. Trugman, and I. Batistić. *Phys. Rev. B* **1999**, *60*, 1633.
 - [Hannewald04](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.69.075212). Anisotropy Effects in Phonon-Assisted Charge-Carrier Transport in Organic Molecular Crystals. K. Hannewald and P. A. Bobbert. *Phys. Rev. B* **2004**, *69*, 075212.
 - [Troisi06](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.086601). Charge-Transport Regime of Crystalline Organic Semiconductors: Diffusion Limited by Thermal Off-Diagonal Electronic Disorder. A. Troisi and G. Orlandi. *Phys. Rev. Lett.* **2006**, *96*, 086601.
